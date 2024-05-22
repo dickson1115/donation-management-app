@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/donation-management-app/static/css/main.f855e6bc.css",
-    "main.js": "/donation-management-app/static/js/main.3a83faf3.js",
-    "static/js/453.413f8942.chunk.js": "/donation-management-app/static/js/453.413f8942.chunk.js",
-    "static/media/logo.svg": "/donation-management-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/donation-management-app/static/css/main.e6c13ad2.css",
+    "main.js": "/donation-management-app/static/js/main.c7b13efb.js",
+    "static/js/453.655efa84.chunk.js": "/donation-management-app/static/js/453.655efa84.chunk.js",
     "index.html": "/donation-management-app/index.html",
-    "main.f855e6bc.css.map": "/donation-management-app/static/css/main.f855e6bc.css.map",
-    "main.3a83faf3.js.map": "/donation-management-app/static/js/main.3a83faf3.js.map",
-    "453.413f8942.chunk.js.map": "/donation-management-app/static/js/453.413f8942.chunk.js.map"
+    "main.e6c13ad2.css.map": "/donation-management-app/static/css/main.e6c13ad2.css.map",
+    "main.c7b13efb.js.map": "/donation-management-app/static/js/main.c7b13efb.js.map",
+    "453.655efa84.chunk.js.map": "/donation-management-app/static/js/453.655efa84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3a83faf3.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7b13efb.js"
   ]
 }
