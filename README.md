@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# Introduction
+This application allow users to manage the donation item from the database.
+The core functionalities includes:
+1. Adding new donation items into the database, editing/updating the existing donation items, and removing the items from the database.
+2. A table that shows the donation items from the database with filtering functions allows users to select the type of donation (e.g., money, food, clothing) that they want to show on the table
+3. Dynamically coded donation types for simplicity in expanding or changing the donation types in the future.
+4. Pie chart and symmary table were used to show the number of donation items on each type of donation.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technology
+1. Typescript
+2. React
+3. Mui
+4. dayjs
 
-## Available Scripts
+# Demo
+GitHub page was used to deploy the application for demo purposes follow with the corresponding branch gh-pages
+https://dickson1115.github.io/donation-management-app/
 
-In the project directory, you can run:
+# Prerequisites
 
-### `npm start`
+1. [Node and npm](https://nodejs.org/en/download/) are installed. Here are the versions I'll be using
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    ```shell
+    node --version
+    v16.17.0
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    npm --version
+    9.6.2
+    ```
 
-### `npm test`
+# Instruction
+1. Download the project from master branch
+2. Open terminal from folder donation-management-app-master
+3. Run the following command
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```shell
+npm install
 
-### `npm run build`
+npm start
+```
+4. The application will be lauched in the browser with an url http://localhost:3000/donation-management-app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
